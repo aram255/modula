@@ -1,0 +1,12 @@
+{
+    "name": "hpv/testt",
+    "description": "kkkkkkkkkkkkkk",
+    "type": "library",
+    "license": "MLT",
+    "autoload":{
+        "psr-4":{
+            "hello\\":"src"
+        }
+    },
+    "require": {}
+}
