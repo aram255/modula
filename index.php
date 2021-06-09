@@ -1,4 +1,4 @@
-<?php   
+<?php  echo 'asdsd';
 
 include "vendor/autoload.php";
 
